@@ -1,1 +1,1 @@
- This is my first walk way on git, Thank you ALX!
+ALX pre-course, 0*001-git course
